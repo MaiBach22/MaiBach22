@@ -2,7 +2,7 @@
 <hr/>
   
   <h3>About Me </h3>
-  <p>I come from VietNam and currently I live in Zoetermeer, the Netherlands. I have been in Netherland since 2017 chasing my dream to become a full stack javascript developer. I recently completed my Bachelor in Creative Media and Game Technologies at the Saxion Applied Sciences and University in Enschede. Right after, I joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset</p>
+  <p>I come from VietNam and currently I live in Zoetermeer, the Netherlands. I have been in Netherland since 2017 chasing my dream to become a full stack javascript developer. I recently completed my Bachelor in Creative Media and Game Technologies at the Saxion Applied Sciences in Enschede. Right after, I joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset</p>
   
   <strong>Tech Skills</strong>
   
